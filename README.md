@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shan Zafar
+# 👋🏻 Hi, I'm Shan Zafar
 
 ###  AWS DevOps Engineer | Cloud | CI/CD | Automation
 
